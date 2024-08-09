@@ -7,7 +7,7 @@ Link to Dissertation: TBA
 ![8th Annual Regional 3MT Competition](Image/Cover.png)
 
 <p align="center">
-8th Annual Regional 3MT® Competition<br>
+8th Annual Regional 3-Minute Thesis® Competition<br>
 (copyright © Bozhou Zhuang)
 </p>
 
