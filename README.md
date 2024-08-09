@@ -24,7 +24,8 @@ Link to Dissertation: TBA
 ### Chapter 7: Variational Auto-Encoders (VAE) and Wasserstein Auto-Encoders (WAE)
 - **Description:** Python codes for VAE and WAE developed in Chapter 7.
 - **Repository Link:** [Chapter 7 VAE and WAE](https://github.com/bozhouzh/PhD_Dissertation/tree/main/Chapter_7)
-
+- **Paper:** Under Review with Structural Health Monitoring.
+  
 ## Additional Resources
 
 Readers are encouraged to explore these repositories to access the full code and related resources. Data will be available upon request. Other papers from my Ph.D. include:
