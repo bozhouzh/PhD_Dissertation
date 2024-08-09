@@ -4,6 +4,13 @@ Welcome to my PhD Dissertation Code Repository. This repository contains the Mat
 
 Link to Dissertation: TBA
 
+![8th Annual Regional 3MT Competition](Image/Cover.png)
+
+<p align="center">
+8th Annual Regional 3MT® Competition<br>
+(copyright © Bozhou Zhuang)
+</p>
+
 ## Contents
 
 ### Chapter 4: Active Noise Cancellation (ANC) Method
