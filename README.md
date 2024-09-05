@@ -2,7 +2,7 @@
 
 Welcome to my PhD Dissertation Code Repository. This repository contains the Matlab and Python codes developed as part of my research conducted for the dissertation. The repository is organized by chapters, with each folder containing the relevant code and resources.
 
-Link to Dissertation: TBA
+Link to Dissertation: http://libproxy.usc.edu/login?url=https://www.proquest.com/dissertations-theses/impurity-gas-detection-spent-nuclear-fuel-snf/docview/3099366799/se-2?accountid=14749
 
 ![8th Annual Regional 3MT Competition](Image/Cover.png)
 
